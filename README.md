@@ -44,7 +44,7 @@ This project demonstrates basic CRUD operations, form handling with file uploads
 
 ## Installation & Setup
 
-1. Clone repo https://github.com/WinnieYuDev/home-cooking-personal-express.git
+1. Clone repo: git clone https://github.com/WinnieYuDev/home-cooking-fullstack
 2. run `npm install`
 3. run `node server.js`
 4. Navigate to `localhost:8080`
