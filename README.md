@@ -44,14 +44,13 @@ This project demonstrates basic CRUD operations, form handling with file uploads
 
 ## Installation & Setup
 
-1. Clone repo
+1. Clone repo https://github.com/WinnieYuDev/home-cooking-personal-express.git
 2. run `npm install`
+3. run `node server.js`
+4. Navigate to `localhost:8080`
 
-## Usage
+## Future Updates
+- More responsive and natural styling
+- User's name is stored in database and displayed on their post
+- Users are able to publicly comment on each other's dishes
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
