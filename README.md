@@ -1,7 +1,7 @@
 # 🍳 Home Cooking Reviews
 
 A simple web application that allows users to share, view, and rate home-cooked dishes. Users can log in, upload dish photos, add descriptions, and interact with other users’ posts using thumbs-up and thumbs-down icons.
-
+![alt text](image.png)
 ---
 
 ## Description
